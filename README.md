@@ -1,2 +1,1 @@
-# Tindog
-Tindog template using bootsrap, CSS, and HTML
+TinDog Starting Files
